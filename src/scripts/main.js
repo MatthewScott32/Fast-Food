@@ -1,6 +1,6 @@
 const restaurant = {
     name: "Bob's Burgers",
-    orders: ["cheese burger", "burger", "fries", "shake", "coke"],
+    orders:[["ruben", "chicken", "club"], ["fries", "none"], ["small", "medium", "large"]],
     placeOrder: function (meal) {
     }
 }
